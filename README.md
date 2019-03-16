@@ -12,7 +12,7 @@
         <button v-on:click="changeMethod">点击按钮</button>
     </div>
 
-    <script src="vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
     <script>
          new Vue({
